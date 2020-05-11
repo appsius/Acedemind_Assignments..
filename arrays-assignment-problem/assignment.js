@@ -15,6 +15,7 @@ const findedMax = () => {
 
 	return [min, max];
 };
+
 const [min, max] = findedMax();
 console.log([min, max]);
 
